@@ -34,8 +34,8 @@ The API is built using **Flask** and automates **preprocessing**, so new student
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/student_dropout_api.git
-cd student_dropout_api
+git clone https://github.com/blinasopjani/Student-Dropout-Prediction-.git
+cd Student-Dropout-Prediction-
 
 ```
 ###  Run the API
