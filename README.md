@@ -31,14 +31,14 @@ The API is built using **Flask** and automates **preprocessing**, so new student
 
 ## **Setup Instructions**
 
-### ** Clone the repository**
+### Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/student_dropout_api.git
 cd student_dropout_api
 
 ```
-### ** Run the API**
+###  Run the API
 ```bash
 python app.py
 
